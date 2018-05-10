@@ -1,0 +1,16 @@
+1} What information is commonly stored in a pixel? (Choose all that apply)
+==>
+— The colour.
+— The transparency of a pixel.
+
+2} Which of the following colours, specified in red, green, blue, represents a shade of grey?
+==> 72, 72, 72
+
+3} Say you have an image that is 128 pixels wide, by 128 pixels high, and it is represented by a one-dimensional array of 32-Bit integers. (Each integer contains the RGBA information for one pixel). If the pixels are arranged in row-major order (that is, the top row of pixels takes up array indices 0…127, the second row down is in 128… 255, and so on) then what is the index of the pixel at x=15, y=22 (y=0 at the top)?
+==> Formula : Y * (image width) + X;
+	————————————————————————————————————
+	parameters : y = 22, x = 15 , image width = 128;
+	ans: 2831
+
+4} If you would like to clamp the value 'r' between 0 and 255, what is the correct use of the 'min' and 'max' functions.
+==> r = max(0, min(255, r))

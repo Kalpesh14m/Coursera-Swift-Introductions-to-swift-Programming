@@ -1,0 +1,26 @@
+1} Which of the following is possible with closures? (Choose all that apply)
+==>
+— Define A function that returns a function.
+— Define A function that takes two functions and returns another function
+— Define A function that takes a function and calls it after a period of time.
+— Define A class with a property with the type of a function
+
+2} What will happen if you try to unwrap an Optional that contains nil like so:
+	let noValue:Int? = nil
+	let unwrappedValue = noValue!
+==> The code will run but crash on the second line
+
+3} When might you use a computed property instead of a stored property?
+==> When the value of the property can be directly computed from another property
+
+4} What is the return type of the following closure: 
+	let closure = { (item1: Int, item2: Double) -> Bool in
+    	// Implementation
+	}	 
+==> Bool
+
+5} Which of the following is an accurate analogy for an Optional that has been assigned a value of nil?
+==> A gift box with nothing in it.
+
+6} What is your favourite feature of Swift so far?
+==> Function and Array

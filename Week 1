@@ -1,0 +1,26 @@
+1} To start practicing swift code, what would you select on the Xcode welcome screen?
+==> Get Started With a new playground
+
+2} In the playground setup lecture we opened a panel that shows the list of files included in a playground bundle by clicking a toolbar button. What's an alternative way open this view? (You are encouraged to open Xcode and look around the menus and commands to find the answer.)
+==> Press Command+1 on the keyboard to open the project navigator.
+
+3} What details are required when you start a new iOS app? (Select all that apply.)
+==> 
+— Project name
+— Organisation name
+— Programming language
+— Type of device that will run the app
+
+4} As an integrated development environment, which of the following features does Xcode provide? (Select all the apply.)
+==>
+— A visual interface builder.
+— A debugger.
+— A source code editor.
+— A project navigator.
+— A compiler.
+
+5} What is a breakpoint?
+==> A line where your code will automatically pause.
+
+6} What version of Xcode are you using? You can see the version number under About Xcode. (eg. 7.1).
+==> version 9.2(9C40b)
